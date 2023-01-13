@@ -56,6 +56,6 @@ Enjoy experimenting and optimizing disk I/O performance!
 
 *How to run*
 
-*./buld.sh*
+*./build.sh*
 
 Please make sure that the build file has executable permission in the running OS.
